@@ -1,0 +1,16 @@
+#微视
+v.kandian.qq.com
+#抖音
+pstatp.com
+snssdk.com
+ixigua.com
+ixiguavideo.com
+amemv.com
+douyin.com
+toutiao.com
+iesdouyin.com
+#快手
+yximgs.com
+gifshow.com
+#火山
+huoshan.com
